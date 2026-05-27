@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile.jpg" alt="Abhinay Kumar Nalband" width="220" />
+  <img src="profile.jpeg" alt="Abhinay Kumar Nalband" width="220" />
 </p>
 
 <h1 align="center">Hi, I'm Abhinay Kumar Nalband 👋</h1>
@@ -98,7 +98,7 @@ Vignan Institute of Technology and Science
 
 ## 🌐 Connect With Me
 
-- Portfolio: [View My Portfolio](PASTE_YOUR_PORTFOLIO_LINK_HERE)
+- Portfolio: [View My Portfolio](https://portfolio-rosy-delta-51.vercel.app/)
 - LinkedIn: [Abhinay Kumar Nalband](https://www.linkedin.com/in/abhinay-kumar-nalband-1635ba1b2/)
 - GitHub: [Abhinay20003](https://github.com/Abhinay20003)
 - Email: abhinaykumarnalband@gmail.com
